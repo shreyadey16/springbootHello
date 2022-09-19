@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: hello-world-pod
-        image: shreyadey16/sonardockerhar:latest
+        image: shreyadey16/newtesthar:latest
         ports: 
         - containerPort: 80
         - containerPort: 443
